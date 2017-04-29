@@ -34,8 +34,8 @@ wss.on('connection', function (ws) {
 });
 
 创建文件client.js,内容如下：
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
+#<html xmlns="http://www.w3.org/1999/xhtml">
+#<head>
     <title>WebSocket test</title>
     <script>
     var ws = new WebSocket("ws://localhost:8080");
@@ -58,12 +58,12 @@ wss.on('connection', function (ws) {
     };
     
     </script>
-</head>
+#</head>
 
-<body >
+#<body >
     
-</body>
-</html>
+#</body>
+#</html>
 
 运行如下命令：
 cnpm install ws --save-dev
