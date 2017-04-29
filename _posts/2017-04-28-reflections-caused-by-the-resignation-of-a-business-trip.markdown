@@ -6,6 +6,7 @@ categories: IT
 author : huanghui
 ---
 
+
 蓝色：网络通信和HTML解析
 黄色：Javascript执行
 紫色：样式计算和布局，即重排
