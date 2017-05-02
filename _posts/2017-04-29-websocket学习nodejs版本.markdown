@@ -7,6 +7,7 @@ author : huanghui
 ---
 
 创建文件server.js,内容如下：
+```javascript
 var WebSocketServer = require('ws').Server,
 wss = new WebSocketServer({ port: 8080 });
 var hh = 1;
@@ -32,10 +33,11 @@ wss.on('connection', function (ws) {
         }
     });
 });
-
+```
 创建文件client.js,内容如下：
-#<html xmlns="http://www.w3.org/1999/xhtml">
-#<head>
+```javascript
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
     <title>WebSocket test</title>
     <script>
     var ws = new WebSocket("ws://localhost:8080");
@@ -58,13 +60,11 @@ wss.on('connection', function (ws) {
     };
     
     </script>
-#</head>
-
-#<body >
-    
-#</body>
-#</html>
-
+</head>
+<body >
+</body>
+</html>
+```
 运行如下命令：
 cnpm install ws --save-dev
 node server.js
