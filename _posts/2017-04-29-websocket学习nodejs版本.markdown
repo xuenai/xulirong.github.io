@@ -66,5 +66,5 @@ wss.on('connection', function (ws) {
 </html>
 ```
 运行如下命令：
-cnpm install ws --save-dev
-node server.js
+* cnpm install ws --save-dev
+* node server.js
