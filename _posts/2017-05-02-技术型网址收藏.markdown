@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "技术型网址收藏"
+date:   2017-05-02 20:34:20
+categories: IT
+author : huanghui
+---
+
+* [设置Git不需要每次push都输入用户名和密码](http://www.itnose.net/detail/6204668.html) 
