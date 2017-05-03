@@ -10,3 +10,4 @@ author : huanghui
 * [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/) 
 * [Chrome渲染分析之Timeline工具的使用](http://www.ghugo.com/chrome-timeline/) 
 * [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32/) 
+* [windows下vue-cli及webpack 构建网站(一)环境安装](http://blog.csdn.net/ansu2009/article/details/53261410) 
