@@ -11,3 +11,7 @@ author : huanghui
 * [Chrome渲染分析之Timeline工具的使用](http://www.ghugo.com/chrome-timeline/) 
 * [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32/) 
 * [windows下vue-cli及webpack 构建网站(一)环境安装](http://blog.csdn.net/ansu2009/article/details/53261410) 
+* [WebSocket 开发指南](https://yq.aliyun.com/articles/69253?spm=5176.100239.0.0.gz7W1x) 
+* [支付宝前端团队推出的Node.js Web框架Chair](http://www.17ky.net/news/96.html) 
+* [凹凸实验室](https://aotu.io/) 
+* [淘宝FED](http://taobaofed.org/) 
