@@ -6,6 +6,7 @@ categories: IT
 author : huanghui
 ---
 
+* [Web前端导航](http://www.alloyteam.com/nav/) 
 * [设置Git不需要每次push都输入用户名和密码](http://www.itnose.net/detail/6204668.html) 
 * [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/) 
 * [Chrome渲染分析之Timeline工具的使用](http://www.ghugo.com/chrome-timeline/) 
@@ -13,5 +14,4 @@ author : huanghui
 * [windows下vue-cli及webpack 构建网站(一)环境安装](http://blog.csdn.net/ansu2009/article/details/53261410) 
 * [WebSocket 开发指南](https://yq.aliyun.com/articles/69253?spm=5176.100239.0.0.gz7W1x) 
 * [支付宝前端团队推出的Node.js Web框架Chair](http://www.17ky.net/news/96.html) 
-* [Web前端导航](http://www.alloyteam.com/nav/) 
 * [HTML5 Canvas玩转酷炫大波浪进度图](http://www.cnblogs.com/iamzhanglei/p/6169298.html) 
