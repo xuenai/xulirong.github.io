@@ -19,5 +19,6 @@ author : huanghui
 * [NodeJs智能合并CSS精灵图工具iSpriter](http://www.alloyteam.com/2012/06/nodejs-smart-merging-css-wizard-tool-intelligentspriter/) 
 * [JavaScript 事件委托详解](http://web.jobbole.com/91228/) 
 * [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff/) 
+* [JavaScript 的继承与多态](https://juejin.im/post/5912753ba22b9d005817524e) 
 
 
