@@ -18,5 +18,6 @@ author : huanghui
 * [HTML5 Canvas玩转酷炫大波浪进度图](http://www.cnblogs.com/iamzhanglei/p/6169298.html) 
 * [NodeJs智能合并CSS精灵图工具iSpriter](http://www.alloyteam.com/2012/06/nodejs-smart-merging-css-wizard-tool-intelligentspriter/) 
 * [JavaScript 事件委托详解](http://web.jobbole.com/91228/) 
+* [深入浅出React（四）：虚拟DOM Diff算法解析](http://www.infoq.com/cn/articles/react-dom-diff/) 
 
 
