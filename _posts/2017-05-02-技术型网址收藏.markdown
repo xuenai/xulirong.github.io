@@ -8,6 +8,7 @@ author : huanghui
 
 * [Web前端导航](http://www.alloyteam.com/nav/) 
 * [Vue.js开源项目速查表](http://www.ctolib.com/cheatsheets-vuejs.html) 
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/) 
 * [设置Git不需要每次push都输入用户名和密码](http://www.itnose.net/detail/6204668.html) 
 * [创建GitHub技术博客全攻略](http://blog.csdn.net/renfufei/article/details/37725057/) 
 * [Chrome渲染分析之Timeline工具的使用](http://www.ghugo.com/chrome-timeline/) 
