@@ -1,11 +1,11 @@
 # Site settings
-title: 黑子草
-email: 386047968@qq.com
-description: 定性、知事、选梦、遇人、伴城终老！
+title: 大迷毛
+email: 1061822690@qq.com
+description: 迷毛大
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.huangh.xyz/" # the base hostname & protocol for your site
+url: "http://www.xulirong.cn/" # the base hostname & protocol for your site
 twitter_username: 
-github_username:  huanghuihong
+github_username:  xulirong
 
 # Build settings
 markdown: kramdown
