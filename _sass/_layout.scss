@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 3px solid #c8c8c8;
-    border-bottom: 1px solid #c8c8c8;
+    border-bottom: 1px solid #fff;
     min-height: 56px;
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -91,7 +91,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid #fff;
     padding: $spacing-unit 0;
 }
 
@@ -179,7 +179,7 @@
 
 .post-meta {
     font-size: $small-font-size;
-    color: $grey-color;
+    color: #333;
 }
 
 .post-link {
